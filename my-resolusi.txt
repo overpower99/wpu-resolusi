@@ -1,4 +1,4 @@
 MY RESOLUSI
 -program deteksi kapal autonomous dengan YOLO
 -program PID Control pada kapal
--Bisa menggunakan Robot Operating System
+
